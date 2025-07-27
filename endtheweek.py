@@ -7,7 +7,7 @@ pen = turtle.Turtle()
 pen.speed(0)
 pen.hideturtle()
 
-colors = ["#FF0000", "#9400D3","#FFFF00","#4B0082",  "#FF7F00", "#0000FF",   "#00FF00",  ]
+colors = ["#EA53D9", "#55D8EA", "#18EA1C"]
 
 sides = 3
 for i in range(150):
